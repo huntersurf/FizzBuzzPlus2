@@ -3,7 +3,7 @@
  * Version: 2.2
  */
 package com.company;
-import java.util.Scanner;
+		import java.util.Scanner;
 
 /**
  * Driver class, creates FizzBuzz object which starts the dialog in the console.
